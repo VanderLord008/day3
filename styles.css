@@ -32,7 +32,7 @@ img{
     padding-left: var(--pleft); 
     background-color: var(--main-bg-color);
     filter:blur(var(--blurVar));
-    width: 100%;
+    width: 50%;
 }
 .topPart{
     text-align: center;
