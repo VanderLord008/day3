@@ -31,7 +31,8 @@ img{
     padding-top: var(--ptop);
     padding-left: var(--pleft); 
     background-color: var(--main-bg-color);
-    filter:blur(var(--blurVar))
+    filter:blur(var(--blurVar));
+    width: 100%;
 }
 .topPart{
     text-align: center;
